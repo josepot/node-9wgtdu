@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "smoldot": "^1.0.0"
+  }
+}
